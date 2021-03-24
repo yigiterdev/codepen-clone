@@ -4,7 +4,7 @@ This project is a CodePen Clone. I made this project to improve myself at React.
 
 ## Live Demo
 
-You can look at project demo in [here](https://yigiterdrive.vercel.app/login).
+You can look at project demo in [here](https://codepen-clone-yigiterdev.vercel.app/).
 
 ## Project setup
 
